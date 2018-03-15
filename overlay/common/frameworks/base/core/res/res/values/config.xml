@@ -91,6 +91,7 @@
          in hardware. -->
     <bool name="config_setColorTransformAccelerated">true</bool>
 
+
     <!-- Flag indicating whether round icons should be parsed from the application manifest. -->
     <bool name="config_useRoundIcon">true</bool>
 
@@ -98,6 +99,12 @@
          NOTE: This requires additional hardware-specific code. -->
     <!-- <bool name="config_uiBlurEnabled">true</bool> -->
 	
+    <!-- System font packages (overlay in vendor) -->
+    <string-array name="config_fontPackages" translatable="false">
+        <item>com.dirtyunicorns.fonts</item>
+
+    </string-array>
+
     <!--  Whether Multiuser UI should be shown -->
     <bool name="config_enableMultiUserUI">true</bool>
 

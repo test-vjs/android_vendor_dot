@@ -72,7 +72,8 @@ PRODUCT_PACKAGES += \
     DotPapers \
     InterfaceCenter \
     SystemUpdates \
-    OmniJaws
+    OmniJaws \
+    DU-Fonts
 
 # Themes
 PRODUCT_PACKAGES += \
