@@ -1,11 +1,11 @@
 [
 	{
-		"name": "rrabout",
-		"url": "https://resurrectionremix.com/assets/rrabout.png"
+		"name": "default_wallpaper",
+		"url": "https://raw.githubusercontent.com/StagOS/android_vendor_stag/p9/overlay/common/frameworks/base/core/res/res/drawable-hdpi/default_wallpaper.jpg"
 	},
   {
-		"name": "rrinstall",
-		"url": "https://resurrectionremix.com/assets/rrinstall.png"
+		"name": "default_wallpaper",
+		"url": "https://raw.githubusercontent.com/StagOS/android_vendor_stag/p9/overlay/common/frameworks/base/core/res/res/drawable-hdpi/default_wallpaper.jpg"
 	}
 
 ]
