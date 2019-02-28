@@ -3,8 +3,8 @@
 		"name": "default_wallpaper",
 		"url": "https://raw.githubusercontent.com/StagOS/android_vendor_stag/55b3291f0c9c67851d65d5c73cb6e800d8957475/overlay/common/frameworks/base/core/res/res/drawable-nodpi/default_wallpaper.png"
 	},
-  {
+        {
 		"name": "default_wallpaper",
 		"url": "https://raw.githubusercontent.com/StagOS/android_vendor_stag/55b3291f0c9c67851d65d5c73cb6e800d8957475/overlay/common/frameworks/base/core/res/res/drawable-nodpi/default_wallpaper.png"
-
+        }
 ]
